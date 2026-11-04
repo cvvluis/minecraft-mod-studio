@@ -79,7 +79,7 @@ app = app.replace("async function startBuild(){await refreshBuildStatus();", "as
 await writeFile(appPath, app);
 
 let landing = await readFile(join(root, 'docs', 'index.html'), 'utf8');
-landing = landing.replace('<a class="button primary" href="https://github.com/LvisXVI/minecraft-mod-studio/releases/latest">Mod Studio für Windows <span aria-hidden="true">↓</span></a><a class="button" href="#features">Vorschau ansehen <span aria-hidden="true">↘</span></a>', '<a class="button primary" href="demo/">Browser-Testversion öffnen <span aria-hidden="true">↗</span></a><a class="button" href="https://github.com/LvisXVI/minecraft-mod-studio/releases/latest">Windows-App herunterladen <span aria-hidden="true">↓</span></a>')
+landing = landing.replace('<a class="button primary" href="https://github.com/cvvluis/minecraft-mod-studio/releases/latest">Mod Studio für Windows <span aria-hidden="true">↓</span></a><a class="button" href="#features">Vorschau ansehen <span aria-hidden="true">↘</span></a>', '<a class="button primary" href="demo/">Browser-Testversion öffnen <span aria-hidden="true">↗</span></a><a class="button" href="https://github.com/cvvluis/minecraft-mod-studio/releases/latest">Windows-App herunterladen <span aria-hidden="true">↓</span></a>')
   .replace('Projekte und Zugangsdaten bleiben auf deinem Gerät.', 'Browser-Testversion: Projekte bleiben in diesem Browser. Für echte Java-Builds nutze die Windows-App.');
 await writeFile(join(root, 'docs', 'index.html'), landing);
 

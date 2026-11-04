@@ -6,11 +6,11 @@
 
 ### Turn your idea into an editable Minecraft Java mod project.
 
-[![Release](https://img.shields.io/github/v/release/LvisXVI/minecraft-mod-studio?style=flat-square&color=c6ff4a&label=release&include_prereleases)](https://github.com/LvisXVI/minecraft-mod-studio/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-setup%20%2B%20portable-15263b?style=flat-square&logo=windows)](https://github.com/LvisXVI/minecraft-mod-studio/releases/latest)
+[![Release](https://img.shields.io/github/v/release/cvvluis/minecraft-mod-studio?style=flat-square&color=c6ff4a&label=release&include_prereleases)](https://github.com/cvvluis/minecraft-mod-studio/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-setup%20%2B%20portable-15263b?style=flat-square&logo=windows)](https://github.com/cvvluis/minecraft-mod-studio/releases/latest)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Java%2026.2%20·%20Fabric-15263b?style=flat-square)](docs/PROJECT_STATUS.md)
 
-[🌐 Website](https://lvisxvi.github.io/minecraft-mod-studio/) · [🧪 Browser demo](https://lvisxvi.github.io/minecraft-mod-studio/demo/) · [⬇️ Download for Windows](https://github.com/LvisXVI/minecraft-mod-studio/releases/latest) · [📋 Project status](docs/PROJECT_STATUS.md) · [🗺️ Roadmap](docs/ROADMAP.md)
+[🌐 Website](https://cvvluis.github.io/minecraft-mod-studio/) · [🧪 Browser demo](https://cvvluis.github.io/minecraft-mod-studio/demo/) · [⬇️ Download for Windows](https://github.com/cvvluis/minecraft-mod-studio/releases/latest) · [📋 Project status](docs/PROJECT_STATUS.md) · [🗺️ Roadmap](docs/ROADMAP.md)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 Mod Studio is a local workbench for Minecraft Java mods. Describe your idea, paint real 16×16 textures, bring in Blockbench models, edit properties and Java source, and build the project right on your PC. AI is optional: sign in with ChatGPT or use a local Ollama model.
 
-> **Also included in [Modspire 0.3.3](https://lvisxvi.github.io/modspire/):** Modspire launches the real Mod Studio from any of its five layouts, with no separate installation.
+> **Also included in [Modspire 0.3.3](https://cvvluis.github.io/modspire/):** Modspire launches the real Mod Studio from any of its five layouts, with no separate installation.
 
 > The app interface is currently in German; this documentation is in English.
 
@@ -39,7 +39,7 @@ Forge, NeoForge, Quilt, more Minecraft versions and more content types are on th
 
 ## 🚀 Install
 
-1. Open [Releases](https://github.com/LvisXVI/minecraft-mod-studio/releases/latest).
+1. Open [Releases](https://github.com/cvvluis/minecraft-mod-studio/releases/latest).
 2. **`Mod-Studio-Setup.exe`** installs the app and its runtimes into `%LOCALAPPDATA%\Programs\ModStudio` – or unzip **`Mod-Studio-Portable.zip`** and run `Mod-Studio.exe`.
 3. Create a project, paint your first texture, build.
 
@@ -47,7 +47,7 @@ Projects and credentials stay local in `%LOCALAPPDATA%\ModStudio`; the app serve
 
 ## 🧪 Try it in your browser
 
-The [browser demo](https://lvisxvi.github.io/minecraft-mod-studio/demo/) is the real editor interface. Projects stay in your browser, assistant replies are simulated, and Java builds need the Windows app.
+The [browser demo](https://cvvluis.github.io/minecraft-mod-studio/demo/) is the real editor interface. Projects stay in your browser, assistant replies are simulated, and Java builds need the Windows app.
 
 ## 🛠️ Development
 
@@ -69,6 +69,6 @@ Licence and checksum notes for the bundled runtimes are in [`licenses/`](license
 
 ## 🌐 The project family
 
-[Modspire](https://lvisxvi.github.io/modspire/) plans modpacks, **Mod Studio** builds mods, [Minecraft Host](https://lvisxvi.github.io/minecraft-host/) runs the server for your friends. Each website has a switcher at the top to jump between them.
+[Modspire](https://cvvluis.github.io/modspire/) plans modpacks, **Mod Studio** builds mods, [Minecraft Host](https://cvvluis.github.io/minecraft-host/) runs the server for your friends. Each website has a switcher at the top to jump between them.
 
 Mod Studio is an independent community project and is not affiliated with Microsoft or Mojang.

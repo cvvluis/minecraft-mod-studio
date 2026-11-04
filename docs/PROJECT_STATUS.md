@@ -41,7 +41,7 @@ The desired later scope goes well beyond items and blocks: tools/weapons/armour,
 
 ## Package and checksums
 
-Release: [v1.0.0 on GitHub](https://github.com/LvisXVI/minecraft-mod-studio/releases/tag/v1.0.0) — the first full release after the 0.1.0 alpha series, marked "Latest".
+Release: [v1.0.0 on GitHub](https://github.com/cvvluis/minecraft-mod-studio/releases/tag/v1.0.0) — the first full release after the 0.1.0 alpha series, marked "Latest".
 
 - Files: `Mod-Studio-Setup.exe` (single installer) and `Mod-Studio-Portable.zip` (unzip manually)
 - Sizes and SHA-256: in `dist/SHA256SUMS.txt` and on the GitHub release
